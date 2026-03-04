@@ -1,6 +1,6 @@
 ## Sobre mí 👋
 
-Soy Ezequiel Vidal, programador Full-Stack, manejo herramientas como PHP, JavaScript, HTML y Css. Además estudié Data Analyst y cuento con experiencia en consultoría de soluciones basadas en datos para PYMES, utilizando herramientas de análisis de datos como Python, Power BI y SQL Server. Mi enfoque está en transformar datos crudos en información útil y visualmente comprensible para ayudar a las empresas a tomar decisiones estratégicas fundamentadas en datos.
+Soy Ezequiel Vidal, programador full-stack senior, manejo herramientas como PHP, JavaScript, HTML y Css. Además estudié Data Analyst y cuento con experiencia en consultoría de soluciones basadas en datos para PYMES, utilizando herramientas de análisis de datos como Python, Power BI y SQL Server. Mi enfoque está en transformar datos crudos en información útil y visualmente comprensible para ayudar a las empresas a tomar decisiones estratégicas fundamentadas en datos.
 
 Actualmente, me encuentro desarrollando proyectos relacionados con el análisis de datos y la visualización, buscando siempre aprender y mejorar mis habilidades. Mi pasión por el análisis y la tecnología me ha llevado a trabajar en proyectos que requieren tanto habilidades técnicas como creatividad para resolver problemas complejos.
 
