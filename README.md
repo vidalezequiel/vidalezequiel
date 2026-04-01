@@ -1,111 +1,118 @@
 # 👋 Hi, I'm Ezequiel Vidal
 
-### Full-Stack Developer | Data Analyst | SaaS Builder  
-🇦🇷 Full-Stack Developer and Data Analyst from Argentina  
+<h3 align="center">Full-Stack Developer | Data Analyst | SaaS Builder</h3>
+
+<p align="center">
+🇦🇷 Full-Stack Developer and Data Analyst from Argentina
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=SaaS+Builder;Full-Stack+Developer;REST+APIs+%26+Backend;Data+Analyst;Building+Real+Products" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I build SaaS products and scalable systems focused on real-world business solutions.
-
-- Backend architecture & REST APIs  
-- Multi-tenant systems  
-- Data analysis & automation  
-- SaaS product development  
-
-Currently developing and scaling my own products (CRM, booking system, video analytics).
+- Building SaaS products with real users  
+- Focused on backend architecture and APIs  
+- Multi-tenant systems & scalable solutions  
+- Combining development + data for real business impact  
 
 ---
 
-## 🧠 Featured Projects
+## 🌐 Live Products
 
-### 🧩 Blackshark CRM
-SaaS CRM platform for managing clients, sales, and operations.
+### 🧠 Blackshark CRM  
+👉 https://crm.blackshark.com.ar  
+
+SaaS CRM platform for managing clients, sales and operations.
 
 - Multi-tenant architecture  
 - REST APIs (PHP backend)  
-- AI integration for data insights  
-- Active clients in real environment  
+- AI integration for data queries  
+- Real client usage  
 
 ---
 
-### 📅 Booked (SaaS Booking System)
-Booking platform for businesses.
+### 📅 Booked (Booking SaaS)  
+👉 https://booked.blackshark.com.ar  
+
+Appointment management platform for businesses.
 
 - PHP + JavaScript  
-- Multi-tenant (slug-based)  
+- Multi-tenant system (slug-based)  
 - REST APIs  
 - 🚀 +35 active clients in first month  
 
 ---
 
-### 📱 Booked Mobile App
-Mobile version built with Flutter.
+### 🌍 Blackshark Website  
+👉 https://blackshark.com.ar  
+
+Main platform and product ecosystem.
+
+---
+
+### 📱 Booked Mobile App (In Progress)
 
 - Flutter (Dart)  
 - REST API integration  
-- In active development  
+- Native mobile experience  
 
 ---
 
 ### 🎥 Bionix (Video Analytics SaaS)
-Real-time video analytics platform.
 
-- Python agent (camera connection)  
-- RTSP streaming  
-- REST APIs  
+- Real-time video analytics  
+- Python agent + RTSP streaming  
 - Behavior and people metrics  
-
----
-
-## 📊 Data Project
-
-### Alcoholic Beverage Analytics
-- Data analysis with Python  
-- Power BI dashboards  
-- SQL data processing  
-
-👉 [View Project](https://github.com/ezeevidal/PF_DA)
+- SaaS architecture  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,php,js,dart,mysql,mongodb,aws,docker,flutter,wordpress" />
+</p>
 
 ---
 
-### ⚙️ Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezeevidal&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezeevidal&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeevidal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🗄 Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 👀 Visitors
 
----
-
-## 📈 GitHub Stats
-
-![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeevidal&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeevidal&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ezeevidal&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel%20Vidal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezeevidal)
+<p align="center">
+<a href="https://linkedin.com/in/ezeevidal">
+  <img src="https://img.shields.io/badge/LinkedIn-Ezequiel%20Vidal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
+<p align="center">
 📧 pezequielvidal@gmail.com
+</p>
