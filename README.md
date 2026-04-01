@@ -17,9 +17,9 @@
 ## 🚀 About Me
 
 - Building SaaS products with real users  
-- Focused on backend architecture and APIs  
-- Multi-tenant systems & scalable solutions  
-- Combining development + data for real business impact  
+- Backend architecture & REST APIs  
+- Multi-tenant systems  
+- Data-driven solutions  
 
 ---
 
@@ -28,48 +28,69 @@
 ### 🧠 Blackshark CRM  
 👉 https://crm.blackshark.com.ar  
 
-SaaS CRM platform for managing clients, sales and operations.
+SaaS CRM for managing clients, sales and operations.
 
 - Multi-tenant architecture  
 - REST APIs (PHP backend)  
-- AI integration for data queries  
-- Real client usage  
+- AI integration  
+- Active client usage  
 
 ---
 
 ### 📅 Booked (Booking SaaS)  
 👉 https://booked.blackshark.com.ar  
 
-Appointment management platform for businesses.
+Appointment management platform.
 
 - PHP + JavaScript  
-- Multi-tenant system (slug-based)  
+- Multi-tenant system  
 - REST APIs  
-- 🚀 +35 active clients in first month  
+- 🚀 +35 clients in first month  
 
 ---
 
 ### 🌍 Blackshark Website  
 👉 https://blackshark.com.ar  
 
-Main platform and product ecosystem.
-
 ---
 
-### 📱 Booked Mobile App (In Progress)
-
+### 📱 Booked Mobile App  
 - Flutter (Dart)  
 - REST API integration  
-- Native mobile experience  
+- In development  
 
 ---
 
-### 🎥 Bionix (Video Analytics SaaS)
+### 🎥 Bionix  
+Video analytics SaaS.
 
-- Real-time video analytics  
-- Python agent + RTSP streaming  
-- Behavior and people metrics  
+- Python agent + RTSP  
+- Real-time metrics  
 - SaaS architecture  
+
+---
+
+## 📸 Screenshots
+
+### 🧠 CRM
+<p align="center">
+  <img src="./assets/crm.png" width="900" />
+</p>
+
+### 📅 Booked Web
+<p align="center">
+  <img src="./assets/booked-web.png" width="900" />
+</p>
+
+### 📱 Booked App
+<p align="center">
+  <img src="./assets/booked-app.png" width="500" />
+</p>
+
+### 🎥 Bionix
+<p align="center">
+  <img src="./assets/bionix.png" width="900" />
+</p>
 
 ---
 
@@ -94,6 +115,14 @@ Main platform and product ecosystem.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeevidal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## ⚡ Currently Building
+
+- Scaling Booked SaaS  
+- Expanding CRM features  
+- Developing Bionix  
 
 ---
 
