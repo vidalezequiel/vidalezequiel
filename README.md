@@ -74,22 +74,22 @@ Video analytics SaaS.
 
 ### 🧠 CRM
 <p align="center">
-  <img src="./assets/crm.png" width="900" />
+  <img src="./images/crm.png" width="900" />
 </p>
 
 ### 📅 Booked Web
 <p align="center">
-  <img src="./assets/booked-web.png" width="900" />
+  <img src="./images/booked-web.png" width="900" />
 </p>
 
 ### 📱 Booked App
 <p align="center">
-  <img src="./assets/booked-app.png" width="500" />
+  <img src="./images/booked-app.png" width="500" />
 </p>
 
 ### 🎥 Bionix
 <p align="center">
-  <img src="./assets/bionix.png" width="900" />
+  <img src="./images/bionix.png" width="900" />
 </p>
 
 ---
