@@ -1,39 +1,111 @@
-## Sobre mí 👋
+# 👋 Hi, I'm Ezequiel Vidal
 
-Soy Ezequiel Vidal, programador full-stack senior, manejo herramientas como PHP, JavaScript, HTML y Css. Además estudié Data Analyst y cuento con experiencia en consultoría de soluciones basadas en datos para PYMES, utilizando herramientas de análisis de datos como Python, Power BI y SQL Server. Mi enfoque está en transformar datos crudos en información útil y visualmente comprensible para ayudar a las empresas a tomar decisiones estratégicas fundamentadas en datos.
+### Full-Stack Developer | Data Analyst | SaaS Builder  
+🇦🇷 Full-Stack Developer and Data Analyst from Argentina  
 
-Actualmente, me encuentro desarrollando proyectos relacionados con el análisis de datos y la visualización, buscando siempre aprender y mejorar mis habilidades. Mi pasión por el análisis y la tecnología me ha llevado a trabajar en proyectos que requieren tanto habilidades técnicas como creatividad para resolver problemas complejos.
+---
 
-Además, soy un apasionado del aprendizaje continuo 📚, y siempre estoy en busca de nuevos desafíos que me permitan crecer como profesional. Mi objetivo principal es siempre "Ser la mejor versión de mí mismo" 💪.
+## 🚀 About Me
 
-## Repositorio Principal 🚀
+I build SaaS products and scalable systems focused on real-world business solutions.
 
-*Proyecto Final: Alcoholic Beverage* 🍹🍷
+- Backend architecture & REST APIs  
+- Multi-tenant systems  
+- Data analysis & automation  
+- SaaS product development  
 
-Descripción 📋
-Este proyecto tiene como objetivo principal analizar, transformar y visualizar los datos de Alcoholic Beverage, una tienda especializada en la venta de bebidas alcohólicas. A través de un flujo de trabajo estructurado, se busca optimizar la toma de decisiones mediante insights generados a partir de datos reales.
+Currently developing and scaling my own products (CRM, booking system, video analytics).
 
-*Tecnologías Utilizadas* 💻
+---
 
-  Python: pandas, numpy, matplotlib, seaborn.
-  
-  SQL: SQL Server para almacenamiento y análisis.
-  
-  Power BI: Creación del dashboard y visualización de insights clave.
+## 🧠 Featured Projects
 
-## Resultados Esperados ✅
+### 🧩 Blackshark CRM
+SaaS CRM platform for managing clients, sales, and operations.
 
-Un flujo de trabajo automatizado que permita procesar los datos de manera eficiente.
-Un dashboard intuitivo que presente métricas clave para la gestión de la tienda.
-Una mejor comprensión de las tendencias de consumo y oportunidades de mercado.
+- Multi-tenant architecture  
+- REST APIs (PHP backend)  
+- AI integration for data insights  
+- Active clients in real environment  
 
-## Enlace al repositorio
-[Ir al repositorio](https://github.com/ezeevidal/PF_DA)
+---
 
-## Fuentes externas
-[Ir al sitio web Geodatos.net](https://www.geodatos.net/coordenadas/reino-unido/)
+### 📅 Booked (SaaS Booking System)
+Booking platform for businesses.
 
-## Contacta conmigo
-Contactame por [LinkedIn](https://www.linkedin.com/in/ezequiel-vidal-a9bb292a0)
+- PHP + JavaScript  
+- Multi-tenant (slug-based)  
+- REST APIs  
+- 🚀 +35 active clients in first month  
 
+---
 
+### 📱 Booked Mobile App
+Mobile version built with Flutter.
+
+- Flutter (Dart)  
+- REST API integration  
+- In active development  
+
+---
+
+### 🎥 Bionix (Video Analytics SaaS)
+Real-time video analytics platform.
+
+- Python agent (camera connection)  
+- RTSP streaming  
+- REST APIs  
+- Behavior and people metrics  
+
+---
+
+## 📊 Data Project
+
+### Alcoholic Beverage Analytics
+- Data analysis with Python  
+- Power BI dashboards  
+- SQL data processing  
+
+👉 [View Project](https://github.com/ezeevidal/PF_DA)
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+### ⚙️ Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 🗄 Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeevidal&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeevidal&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezequiel%20Vidal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezeevidal)
+
+📧 pezequielvidal@gmail.com
